@@ -37,6 +37,6 @@ adding, removing and generating the reports.
 # PLATFORM
 1. Operating Systems: Microsoft Windows
 2. Technologies Used:
-      Front End: HTML, CSS and JAVASCRIPT
-      Web Designing Language: PHP
-      RDBMS (BACK end): MYSQL
+     # Front End: HTML, CSS and JAVASCRIPT
+     # Web Designing Language: PHP
+     # RDBMS (BACK end): MYSQL

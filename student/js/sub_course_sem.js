@@ -1,0 +1,26 @@
+function get_sem(str)
+{
+	if(str > 0 )
+	{  
+	
+		location.replace("sub_course_sem.php?C="+str);
+	}
+}
+function valid()
+{ 
+	var empty = document.forms["form1"]["course_name"].value;
+   	var empty1 = document.forms["form1"]["semester"].value;
+	if(empty == 0)
+      {
+	 	alert("Please Select Any Course");
+	    return false;
+	  }
+	  
+	  else if(empty1 == 0)
+      {
+	 	alert("Please Select Any Semester");
+	    return false;
+	  }
+	
+	   return true;
+}

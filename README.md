@@ -18,14 +18,14 @@ INFORMATION SYSTEM will store all the details of the students including course
 records, subject records, attendance records, marks records. The STUDENT
 INFORMATION SYSTEM can be enhanced to include some other functionality like
 the following:
- An interactive chat session between students and faculties can be added.
- Social networking can also be added wherein students can interact with each
+1. An interactive chat session between students and faculties can be added.
+2. Social networking can also be added wherein students can interact with each
 other.
- Talent management of syudents based on their performance evaluation can be
+3. Talent management of syudents based on their performance evaluation can be
 added.
- Online class Functionality can be added
+4. Online class Functionality can be added
 Can ivolve as an online institution.
- Online exam functionality can be added so that students can test their skills
+5. Online exam functionality can be added so that students can test their skills
 about particular subject.
 
 # USER REQUIREMENTS
@@ -35,8 +35,8 @@ bulk of paperwork, provide ease of work, flexibility, fast record finding, modif
 adding, removing and generating the reports.
 
 # PLATFORM
- Operating Systems: Microsoft Windows
- Technologies Used:
-Front End: HTML, CSS and JAVASCRIPT
-Web Designing Language: PHP
-RDBMS (BACK end): MYSQL
+1. Operating Systems: Microsoft Windows
+2. Technologies Used:
+      Front End: HTML, CSS and JAVASCRIPT
+      Web Designing Language: PHP
+      RDBMS (BACK end): MYSQL
